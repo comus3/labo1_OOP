@@ -1,0 +1,14 @@
+C:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\obj\Debug\net7.0\seance1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\obj\Debug\net7.0\seance1.AssemblyInfoInputs.cache
+C:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\obj\Debug\net7.0\seance1.AssemblyInfo.cs
+C:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\obj\Debug\net7.0\seance1.csproj.CoreCompileInputs.cache
+c:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\bin\Debug\net7.0\seance1.exe
+c:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\bin\Debug\net7.0\seance1.deps.json
+c:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\bin\Debug\net7.0\seance1.runtimeconfig.json
+c:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\bin\Debug\net7.0\seance1.dll
+c:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\bin\Debug\net7.0\seance1.pdb
+c:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\obj\Debug\net7.0\seance1.dll
+c:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\obj\Debug\net7.0\refint\seance1.dll
+c:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\obj\Debug\net7.0\seance1.pdb
+c:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\obj\Debug\net7.0\seance1.genruntimeconfig.cache
+c:\Users\comep\OneDrive\Documents\ECAM\2023_2024\Q1\C#\LABO1\seance1\obj\Debug\net7.0\ref\seance1.dll
